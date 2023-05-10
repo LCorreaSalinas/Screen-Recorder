@@ -1,0 +1,26 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+#circle {
+  width: 16px;
+  height: 16px;
+  background-color: red;
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  line-height: 20px;
+  vertical-align: middle;
+  text-align: center;
+  color: white;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
